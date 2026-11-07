@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07T00:29:16+00:00  
+Derniere mise a jour : 2026-11-07T00:29:32+00:00  
 Total offres analysees : 14 | Categorie 1 : 1 | Categorie 2 : 6
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
