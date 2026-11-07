@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07 12:13 CET  
-Total offres analysees : 17 | Categorie 1 : 1 | Categorie 2 : 9
+Derniere mise a jour : 2026-11-07 12:56 CET  
+Total offres analysees : 19 | Categorie 1 : 1 | Categorie 2 : 11
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -19,6 +19,8 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 8 | Tu hésites entre Mistral, Palantir ou Alan ? | Ajua Labs. On | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691541990997975/) |
 | 9 | Vocca is hiring a Founder Associate – 6-month… | - | 2 | a preciser | a preciser | - |
 | 10 | Stages de Recherche | Callyope | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691450974340410/) |
+| 11 | stage 4-6 mois | Je | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3674100212742153/) |
+| 12 | Stage | Cozycozy | 2 | a preciser | a preciser | [Candidature](https://jobs.cozycozy.com/o/head-of-data-ai?utm_id=97758_v0_s00_e0_tv0) |
 
 ## Categorie 1 - Pertinentes
 
@@ -140,9 +142,33 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3691450974340410/)
 - **Alumni** : Auguste Crabeil
 
+### 10. stage 4-6 mois
+
+**Entreprise** : Je · **Type** : STAGE · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+  - contrat hors stage (CDI/CDD/VIE/alternance)
+- **Resume** : Je transmets ici un message d’Alexandre Govin, mon maître de stage/mentor/CEO lors de mon stage 3A l’année dernière (je suis un X23) Hello les X. Je suis un X13 et je cherche de 2 à 5 stagiaires pour venir bosser avec moi à l’île Maurice. J’ai cofondé Eqxia avec deux associés :…
+- **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3674100212742153/)
+- **Alumni** : Emile Drijard-Mazzini, Emile et Sascha, par Whatsap au
+
+### 11. Stage
+
+**Entreprise** : Cozycozy · **Type** : STAGE · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+  - contrat hors stage (CDI/CDD/VIE/alternance)
+- **Resume** : Hello à tous. Je relaie des offres de CDI et de stage chez Cozycozy au sein de leur équipe *Data*, de la part d’Alexandre Saillard (X14) qui les conseille. Cozycozy | startup en forte croissance dans la travel tech, fondée par des anciens de Liligo et backée par Xavier Niel et…
+- **Liens** : [Candidature](https://jobs.cozycozy.com/o/head-of-data-ai?utm_id=97758_v0_s00_e0_tv0)
+- **Alumni** : Karl Hajjar, directement Alexandre sur
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com
 
 ---
 
