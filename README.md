@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07 13:57 CET  
-Total offres analysees : 20 | Categorie 1 : 1 | Categorie 2 : 12
+Derniere mise a jour : 2026-11-07 15:16 CET  
+Total offres analysees : 30 | Categorie 1 : 1 | Categorie 2 : 15
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -22,6 +22,9 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 11 | stage 4-6 mois | Je | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3674100212742153/) |
 | 12 | Stage | Cozycozy | 2 | a preciser | a preciser | [Candidature](https://jobs.cozycozy.com/o/head-of-data-ai?utm_id=97758_v0_s00_e0_tv0) |
 | 13 | Thèse | Thèse | 2 | a preciser | a preciser | - |
+| 14 | Interface Homme Machine / IA Vocale Conversationnelle | Voodoo | 2 | a preciser | a preciser | [Candidature](https://templelabs.io/) |
+| 15 | Software Engineering Intern (AI-native) | - | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3671559786329529/) |
+| 16 | Stage 4A + Thèse | Network Design | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3665156566969851/) |
 
 ## Categorie 1 - Pertinentes
 
@@ -177,9 +180,42 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Resume** : Bonjour à tous, Je vous partage une offre de thèse dans une nouvelle équipe d'un labo à Bâle. La thèse portera sur la transcriptomique spatiale, avec une orientation IA, Computer Science et Maths.…. PDF. CCD-Lab_open-positions.pdf
 - **Alumni** : Amélie Barozet
 
+### 13. Interface Homme Machine / IA Vocale Conversationnelle
+
+**Entreprise** : Voodoo · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Hello ! Je suis Antoine, HEC / master entrepreneuriat. J’ai passé deux ans chez Voodoo, où j’ai lancé 40 produits social media et travaillé avec Alexandre Yazdi, cofondateur et CEO, sur la stratégie ventures du groupe. Avant ça : BCG et VC en industries créatives. Je lance…
+- **Liens** : [Candidature](https://templelabs.io/)
+- **Alumni** : Anonymous member
+
+### 14. Software Engineering Intern (AI-native)
+
+**Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Software Engineering Intern (AI-native) Ulys · Remote · Internship. Ulys is an AI-native finance app where you come to trade your ideas about the world. We ship faster than anyone, and we’re looking for a software engineering intern who wants to learn by building software that…
+- **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3671559786329529/)
+- **Alumni** : Malo Rnd
+
+### 15. Stage 4A + Thèse
+
+**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Bonjour à tous, Je relaie une offre de l'équipe GHOST de l'Inria Grenoble (l'équipe est très cool ) pour un stage puis thèse sur le sujet "Network design and equilibrium learning for collaborative logistics". La description plus précise est dans le document, c'est un sujet à…
+- **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3665156566969851/)
+- **Alumni** : Hélène Arvis, si ça vous
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics, Voodoo, Alexandre, Co-founder technique, https://templelabs.io, https://cal.com/antoinenys/temple, https://wa.me/33659471126, templelabs.io, cal.com, wa.me, Network Design
 
 ---
 
