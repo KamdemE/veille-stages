@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07T08:16:36+00:00  
-Total offres analysees : 16 | Categorie 1 : 1 | Categorie 2 : 8
+Derniere mise a jour : 2026-11-07 12:12 CET  
+Total offres analysees : 17 | Categorie 1 : 1 | Categorie 2 : 9
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -18,6 +18,7 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 7 | AI Engineer | VistIQ | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3692044200947754/) |
 | 8 | Tu hésites entre Mistral, Palantir ou Alan ? | Ajua Labs. On | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691541990997975/) |
 | 9 | Vocca is hiring a Founder Associate – 6-month… | - | 2 | a preciser | a preciser | - |
+| 10 | Stages de Recherche | Callyope | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691450974340410/) |
 
 ## Categorie 1 - Pertinentes
 
@@ -128,9 +129,20 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Resume** : Vocca is hiring a Founder Associate – 6-month end-of-studies internship, Paris, January 2027 Vocca builds AI voice agents for healthcare: 400 healthcare organizations as customers, 50+ people across Paris and New York, $20M Series A. We're opening a Founder Associate…
 - **Alumni** : Simon Vielpeau
 
+### 9. Stages de Recherche
+
+**Entreprise** : Callyope · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Salut à tous, chez Callyope on propose plusieurs stages de recherche. N'hésitez pas si vous avez des questions ou si vous souhaitez des infos en plus ! PDF. Callyope Master_PhD Internships 2027-1.pdf
+- **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3691450974340410/)
+- **Alumni** : Auguste Crabeil
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope
 
 ---
 
