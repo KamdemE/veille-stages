@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07 12:56 CET  
-Total offres analysees : 19 | Categorie 1 : 1 | Categorie 2 : 11
+Derniere mise a jour : 2026-11-07 13:57 CET  
+Total offres analysees : 20 | Categorie 1 : 1 | Categorie 2 : 12
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -21,6 +21,7 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 10 | Stages de Recherche | Callyope | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691450974340410/) |
 | 11 | stage 4-6 mois | Je | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3674100212742153/) |
 | 12 | Stage | Cozycozy | 2 | a preciser | a preciser | [Candidature](https://jobs.cozycozy.com/o/head-of-data-ai?utm_id=97758_v0_s00_e0_tv0) |
+| 13 | Thèse | Thèse | 2 | a preciser | a preciser | - |
 
 ## Categorie 1 - Pertinentes
 
@@ -166,9 +167,19 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Liens** : [Candidature](https://jobs.cozycozy.com/o/head-of-data-ai?utm_id=97758_v0_s00_e0_tv0)
 - **Alumni** : Karl Hajjar, directement Alexandre sur
 
+### 12. Thèse
+
+**Entreprise** : Thèse · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Bonjour à tous, Je vous partage une offre de thèse dans une nouvelle équipe d'un labo à Bâle. La thèse portera sur la transcriptomique spatiale, avec une orientation IA, Computer Science et Maths.…. PDF. CCD-Lab_open-positions.pdf
+- **Alumni** : Amélie Barozet
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics
 
 ---
 
