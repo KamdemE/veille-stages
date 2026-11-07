@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07 15:16 CET  
-Total offres analysees : 30 | Categorie 1 : 1 | Categorie 2 : 15
+Derniere mise a jour : 2026-11-07 21:15 CET  
+Total offres analysees : 31 | Categorie 1 : 1 | Categorie 2 : 16
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -25,6 +25,7 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 14 | Interface Homme Machine / IA Vocale Conversationnelle | Voodoo | 2 | a preciser | a preciser | [Candidature](https://templelabs.io/) |
 | 15 | Software Engineering Intern (AI-native) | - | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3671559786329529/) |
 | 16 | Stage 4A + Thèse | Network Design | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3665156566969851/) |
+| 17 | Stage 4 à 6 mois | Thales Group | 2 | a preciser | a preciser | [Candidature](https://careers.thalesgroup.com/fr/fr/job/R0342524/STAGE-Ingénieur-Optimisation-du-fonctionnement-d’un-radar-de-surveillance-H-F) |
 
 ## Categorie 1 - Pertinentes
 
@@ -213,9 +214,21 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3665156566969851/)
 - **Alumni** : Hélène Arvis, si ça vous
 
+### 16. Stage 4 à 6 mois
+
+**Entreprise** : Thales Group · **Type** : STAGE · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+  - contrat hors stage (CDI/CDD/VIE/alternance)
+- **Resume** : Si vous avez suivi l'actualité spatiale de ces derniers jours, vous savez que le satellite militaire russe KOSMOS-2612 a réalisé une manœuvre inédite de rapprochement sur le satellite finno-américain ICEYE-X36. En parallèle, il y a quelques semaines, les Etats-Unis déclaraient…
+- **Liens** : [Candidature](https://careers.thalesgroup.com/fr/fr/job/R0342524/STAGE-Ingénieur-Optimisation-du-fonctionnement-d’un-radar-de-surveillance-H-F) · [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3672443796241128/)
+- **Alumni** : Hervé Dutrieux, pour plus de
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics, Voodoo, Alexandre, Co-founder technique, https://templelabs.io, https://cal.com/antoinenys/temple, https://wa.me/33659471126, templelabs.io, cal.com, wa.me, Network Design
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics, Voodoo, Alexandre, Co-founder technique, https://templelabs.io, https://cal.com/antoinenys/temple, https://wa.me/33659471126, templelabs.io, cal.com, wa.me, Network Design, Thales Group, Surveillance de l'espace, thalesgroup.com
 
 ---
 
