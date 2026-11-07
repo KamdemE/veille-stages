@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-07T07:25:15+00:00  
-Total offres analysees : 14 | Categorie 1 : 1 | Categorie 2 : 6
+Derniere mise a jour : 2026-11-07T08:16:36+00:00  
+Total offres analysees : 16 | Categorie 1 : 1 | Categorie 2 : 8
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -16,6 +16,8 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 5 | Stages 4A | Neolab | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3683479325137575/) |
 | 6 | LLMs x Transition énergétique | Revolt.eco | 2 | a preciser | a preciser | [Candidature](https://revolt-eco.welcomekit.co/jobs/ai-engineer-llms_paris) |
 | 7 | AI Engineer | VistIQ | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3692044200947754/) |
+| 8 | Tu hésites entre Mistral, Palantir ou Alan ? | Ajua Labs. On | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3691541990997975/) |
+| 9 | Vocca is hiring a Founder Associate – 6-month… | - | 2 | a preciser | a preciser | - |
 
 ## Categorie 1 - Pertinentes
 
@@ -105,9 +107,30 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3692044200947754/)
 - **Alumni** : Jean-Louis BJ
 
+### 7. Tu hésites entre Mistral, Palantir ou Alan ?
+
+**Entreprise** : Ajua Labs. On · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Tu hésites entre Mistral, Palantir ou Alan ? Il y a une autre option: mettre ton énergie au service de populations rurales en Afrique - sans faire de compromis sur la nature du boulot. On cherche un AI Deployment Strategist chez Ajua Labs. On est une startup qui s’attaque aux…
+- **Liens** : [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3691541990997975/)
+- **Alumni** : David Hugues
+
+### 8. Vocca is hiring a Founder Associate – 6-month…
+
+**Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Vocca is hiring a Founder Associate – 6-month end-of-studies internship, Paris, January 2027 Vocca builds AI voice agents for healthcare: 400 healthcare organizations as customers, 50+ people across Paris and New York, $20M Series A. We're opening a Founder Associate…
+- **Alumni** : Simon Vielpeau
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On
 
 ---
 
