@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-08 00:10 CET  
-Total offres analysees : 31 | Categorie 1 : 1 | Categorie 2 : 16
+Derniere mise a jour : 2026-11-08 12:11 CET  
+Total offres analysees : 32 | Categorie 1 : 1 | Categorie 2 : 16
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -117,7 +117,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 7. Tu hésites entre Mistral, Palantir ou Alan ?
 
-**Entreprise** : Ajua Labs. On · **Vu depuis** : aujourd'hui
+**Entreprise** : Ajua Labs. On · **Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -128,7 +128,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 8. Vocca is hiring a Founder Associate – 6-month…
 
-**Vu depuis** : aujourd'hui
+**Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -138,7 +138,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 9. Stages de Recherche
 
-**Entreprise** : Callyope · **Vu depuis** : aujourd'hui
+**Entreprise** : Callyope · **Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
