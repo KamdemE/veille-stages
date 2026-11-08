@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-08 15:12 CET  
+Derniere mise a jour : 2026-11-08 18:31 CET  
 Total offres analysees : 34 | Categorie 1 : 1 | Categorie 2 : 16
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -183,7 +183,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 13. Interface Homme Machine / IA Vocale Conversationnelle
 
-**Entreprise** : Voodoo · **Vu depuis** : aujourd'hui
+**Entreprise** : Voodoo · **Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -194,7 +194,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 14. Software Engineering Intern (AI-native)
 
-**Vu depuis** : aujourd'hui
+**Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -205,7 +205,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 15. Stage 4A + Thèse
 
-**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : aujourd'hui
+**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : 1 jour
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
