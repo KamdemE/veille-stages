@@ -1,7 +1,7 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-08 21:16 CET  
-Total offres analysees : 34 | Categorie 1 : 1 | Categorie 2 : 16
+Derniere mise a jour : 2026-11-09 00:16 CET  
+Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
 
@@ -26,12 +26,14 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 | 15 | Software Engineering Intern (AI-native) | - | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3671559786329529/) |
 | 16 | Stage 4A + Thèse | Network Design | 2 | a preciser | a preciser | [Publication](https://www.facebook.com/groups/637355686416636/permalink/3665156566969851/) |
 | 17 | Stage 4 à 6 mois | Thales Group | 2 | a preciser | a preciser | [Candidature](https://careers.thalesgroup.com/fr/fr/job/R0342524/STAGE-Ingénieur-Optimisation-du-fonctionnement-d’un-radar-de-surveillance-H-F) |
+| 18 | Ingénieur IA / Software | San Francisco | 2 | a preciser | a preciser | [Candidature](https://lnkd.in/p/es4FwnDX) |
+| 19 | Stage pré-thèse de 4 à 6 mois | Meta | 2 | a preciser | a preciser | [Candidature](https://www.metacareers.com/profile/job_details/1647286810370437/) |
 
 ## Categorie 1 - Pertinentes
 
 ### 1. ALAN - OFFRES DE STAGE 2A
 
-**Entreprise** : Alan · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : Alan · **Type** : STAGE · **Vu depuis** : 2 jours
 
 domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratification : 2800 EUR/mois OK
 
@@ -44,7 +46,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 1. Founding Forward Deployed Engineer
 
-**Entreprise** : Faber · **Type** : CDI · **Vu depuis** : 1 jour
+**Entreprise** : Faber · **Type** : CDI · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -57,7 +59,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 2. Stage de recherche 3A/4A – 4 à 6 mois
 
-**Entreprise** : BNP Paribas · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : BNP Paribas · **Type** : STAGE · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -69,7 +71,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 3. Stage R&D
 
-**Entreprise** : BNP Paribas CIB · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : BNP Paribas CIB · **Type** : STAGE · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -81,7 +83,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 4. Stages 4A
 
-**Entreprise** : Neolab · **Type** : CDI · **Vu depuis** : 1 jour
+**Entreprise** : Neolab · **Type** : CDI · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -93,7 +95,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 5. LLMs x Transition énergétique
 
-**Entreprise** : Revolt.eco · **Type** : CDI · **Vu depuis** : 1 jour
+**Entreprise** : Revolt.eco · **Type** : CDI · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -105,7 +107,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 6. AI Engineer
 
-**Entreprise** : VistIQ · **Type** : CDI · **Vu depuis** : 1 jour
+**Entreprise** : VistIQ · **Type** : CDI · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -226,9 +228,32 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 - **Liens** : [Candidature](https://careers.thalesgroup.com/fr/fr/job/R0342524/STAGE-Ingénieur-Optimisation-du-fonctionnement-d’un-radar-de-surveillance-H-F) · [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3672443796241128/)
 - **Alumni** : Hervé Dutrieux, pour plus de
 
+### 17. Ingénieur IA / Software
+
+**Entreprise** : San Francisco · **Type** : CDI · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree non precisee (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+  - contrat hors stage (CDI/CDD/VIE/alternance)
+- **Resume** : Hello à tous. Je suis X19, ingénieur chez ClarityCare AI à San Francisco. Nous venons d'annoncer une levée de 20 M$ (seed + série A), menée par Headline aux côtés d'Arthur Ventures, Entrepreneur First, firstminute, FJ Labs, Maverick et Top Harvest Capital. L'annonce est ici :.…
+- **Liens** : [Candidature](https://lnkd.in/p/es4FwnDX) · [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3680585605426947/)
+- **Alumni** : Oscar Courbit
+
+### 18. Stage pré-thèse de 4 à 6 mois
+
+**Entreprise** : Meta · **Type** : STAGE · **Vu depuis** : aujourd'hui
+
+- **Raisons** :
+  - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
+  - gratification non precisee (a confirmer)
+- **Resume** : Bonjour, Mon équipe à Paris recrute actuellement des candidat.e.s pour un stage de fin d'études de 4 à 6 mois (4A), pouvant déboucher sur une thèse à Paris chez Meta ou sur un poste de Research Engineer. Nous travaillons sur le post-training des derniers modèles frontière de…
+- **Liens** : [Candidature](https://www.metacareers.com/profile/job_details/1647286810370437/) · [Publication Facebook](https://www.facebook.com/groups/637355686416636/permalink/3680218848796956/)
+- **Alumni** : Mathieu Rita
+
 ## Recherche alumni en attente
 
-Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics, Voodoo, Alexandre, Co-founder technique, https://templelabs.io, https://cal.com/antoinenys/temple, https://wa.me/33659471126, templelabs.io, cal.com, wa.me, Network Design, Thales Group, Surveillance de l'espace, thalesgroup.com
+Alan, Pantin, Revolt.eco, VistIQ, Ajua Labs. On, On, Callyope, Je, Maurice, Cozycozy, CozyCozy, cozycozy.com, Thèse, Bâle, Computer Science, Transcriptomics, Voodoo, Alexandre, Co-founder technique, https://templelabs.io, https://cal.com/antoinenys/temple, https://wa.me/33659471126, templelabs.io, cal.com, wa.me, Network Design, Thales Group, Surveillance de l'espace, thalesgroup.com, San Francisco, Visa pris en charge, lnkd.in, Meta, Meta Superintelligence Lab, metacareers.com
 
 ---
 
