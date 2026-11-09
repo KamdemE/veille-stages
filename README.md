@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-09 09:14 CET  
+Derniere mise a jour : 2026-11-09 18:13 CET  
 Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -119,7 +119,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 7. Tu hésites entre Mistral, Palantir ou Alan ?
 
-**Entreprise** : Ajua Labs. On · **Vu depuis** : 1 jour
+**Entreprise** : Ajua Labs. On · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -130,7 +130,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 8. Vocca is hiring a Founder Associate – 6-month…
 
-**Vu depuis** : 1 jour
+**Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -140,7 +140,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 9. Stages de Recherche
 
-**Entreprise** : Callyope · **Vu depuis** : 1 jour
+**Entreprise** : Callyope · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -151,7 +151,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 10. stage 4-6 mois
 
-**Entreprise** : Je · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : Je · **Type** : STAGE · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -163,7 +163,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 11. Stage
 
-**Entreprise** : Cozycozy · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : Cozycozy · **Type** : STAGE · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -175,7 +175,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 12. Thèse
 
-**Entreprise** : Thèse · **Vu depuis** : 1 jour
+**Entreprise** : Thèse · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -185,7 +185,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 13. Interface Homme Machine / IA Vocale Conversationnelle
 
-**Entreprise** : Voodoo · **Vu depuis** : 1 jour
+**Entreprise** : Voodoo · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -196,7 +196,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 14. Software Engineering Intern (AI-native)
 
-**Vu depuis** : 1 jour
+**Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -207,7 +207,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 15. Stage 4A + Thèse
 
-**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : 1 jour
+**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : 2 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
