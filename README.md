@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-13 21:15 CET  
+Derniere mise a jour : 2026-11-14 00:11 CET  
 Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -33,7 +33,7 @@ Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prom
 
 ### 1. ALAN - OFFRES DE STAGE 2A
 
-**Entreprise** : Alan · **Type** : STAGE · **Vu depuis** : 6 jours
+**Entreprise** : Alan · **Type** : STAGE · **Vu depuis** : 7 jours
 
 domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratification : 2800 EUR/mois OK
 
@@ -46,7 +46,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 1. Founding Forward Deployed Engineer
 
-**Entreprise** : Faber · **Type** : CDI · **Vu depuis** : 6 jours
+**Entreprise** : Faber · **Type** : CDI · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -59,7 +59,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 2. Stage de recherche 3A/4A – 4 à 6 mois
 
-**Entreprise** : BNP Paribas · **Type** : STAGE · **Vu depuis** : 6 jours
+**Entreprise** : BNP Paribas · **Type** : STAGE · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -71,7 +71,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 3. Stage R&D
 
-**Entreprise** : BNP Paribas CIB · **Type** : STAGE · **Vu depuis** : 6 jours
+**Entreprise** : BNP Paribas CIB · **Type** : STAGE · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -83,7 +83,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 4. Stages 4A
 
-**Entreprise** : Neolab · **Type** : CDI · **Vu depuis** : 6 jours
+**Entreprise** : Neolab · **Type** : CDI · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -95,7 +95,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 5. LLMs x Transition énergétique
 
-**Entreprise** : Revolt.eco · **Type** : CDI · **Vu depuis** : 6 jours
+**Entreprise** : Revolt.eco · **Type** : CDI · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -107,7 +107,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 6. AI Engineer
 
-**Entreprise** : VistIQ · **Type** : CDI · **Vu depuis** : 6 jours
+**Entreprise** : VistIQ · **Type** : CDI · **Vu depuis** : 7 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
