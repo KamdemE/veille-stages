@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-13 00:13 CET  
+Derniere mise a jour : 2026-11-13 09:13 CET  
 Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -230,7 +230,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 17. Ingénieur IA / Software
 
-**Entreprise** : San Francisco · **Type** : CDI · **Vu depuis** : 3 jours
+**Entreprise** : San Francisco · **Type** : CDI · **Vu depuis** : 4 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -242,7 +242,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 18. Stage pré-thèse de 4 à 6 mois
 
-**Entreprise** : Meta · **Type** : STAGE · **Vu depuis** : 3 jours
+**Entreprise** : Meta · **Type** : STAGE · **Vu depuis** : 4 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
