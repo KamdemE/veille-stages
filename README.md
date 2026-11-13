@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-13 12:15 CET  
+Derniere mise a jour : 2026-11-13 21:15 CET  
 Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -151,7 +151,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 10. stage 4-6 mois
 
-**Entreprise** : Je · **Type** : STAGE · **Vu depuis** : 5 jours
+**Entreprise** : Je · **Type** : STAGE · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -163,7 +163,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 11. Stage
 
-**Entreprise** : Cozycozy · **Type** : STAGE · **Vu depuis** : 5 jours
+**Entreprise** : Cozycozy · **Type** : STAGE · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
@@ -175,7 +175,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 12. Thèse
 
-**Entreprise** : Thèse · **Vu depuis** : 5 jours
+**Entreprise** : Thèse · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -185,7 +185,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 13. Interface Homme Machine / IA Vocale Conversationnelle
 
-**Entreprise** : Voodoo · **Vu depuis** : 5 jours
+**Entreprise** : Voodoo · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -196,7 +196,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 14. Software Engineering Intern (AI-native)
 
-**Vu depuis** : 5 jours
+**Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -207,7 +207,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 15. Stage 4A + Thèse
 
-**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : 5 jours
+**Entreprise** : Network Design · **Type** : STAGE · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree non precisee (attendu 3 mois / 12 a 14 semaines)
@@ -218,7 +218,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 16. Stage 4 à 6 mois
 
-**Entreprise** : Thales Group · **Type** : STAGE · **Vu depuis** : 5 jours
+**Entreprise** : Thales Group · **Type** : STAGE · **Vu depuis** : 6 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
