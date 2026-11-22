@@ -1,6 +1,6 @@
 # Veille - Group Facebook Jobs & Stages - X
 
-Derniere mise a jour : 2026-11-22 18:14 CET  
+Derniere mise a jour : 2026-11-22 21:16 CET  
 Total offres analysees : 37 | Categorie 1 : 1 | Categorie 2 : 18
 
 Criteres : domaine IA/ML/robotique + role type AI/ML/Edge AI engineer (hors prompt engineer etc.) + stage 3 mois (12 a 14 semaines) + gratification >= 1500 EUR.
@@ -218,7 +218,7 @@ domaine IA/ML/robotique : OK · duree 3 mois / 12-14 semaines : OK · gratificat
 
 ### 16. Stage 4 à 6 mois
 
-**Entreprise** : Thales Group · **Type** : STAGE · **Vu depuis** : 14 jours
+**Entreprise** : Thales Group · **Type** : STAGE · **Vu depuis** : 15 jours
 
 - **Raisons** :
   - duree 6 non conforme (attendu 3 mois / 12 a 14 semaines)
